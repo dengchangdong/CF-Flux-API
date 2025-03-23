@@ -82,10 +82,12 @@ function generateWelcomePage() {
                 font-family: Arial, sans-serif;
                 line-height: 1.6;
                 color: #333;
-                max-width: 800px;
+                max-width: 700px;
                 margin: 0 auto;
-                padding: 20px;
                 text-align: center;
+                display: flex;
+                align-items: center;
+                height: 100vh;
             }
             h1 {
                 color: #2c3e50;
